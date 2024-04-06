@@ -1,2 +1,2 @@
 # UNETR-mini
-making UNETR scalable 
+making UNETR scalable for 3D medical segmentation 
