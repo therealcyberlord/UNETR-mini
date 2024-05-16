@@ -1,2 +1,2 @@
-# UNETR-mini
-making UNETR scalable for 3D medical segmentation 
+# Swin UNETR-mini
+Knowledge Distillation for Efficient 3D Medical Image Segmentation
