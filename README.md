@@ -10,7 +10,7 @@ The learned weights for the Swin UNETR and Swin UNETR-mini models are available 
 - [Swin UNETR-mini](https://www.kaggle.com/models/therealcyberlord/swin-unetr-mini)
   
 ## Code 
-You can find the code for training and knowledge distillation in the BRATS folder, all experiments are evaluated on the BRATS 2021 dataset. 
+You can find the code for training and knowledge distillation in the BRATS folder, all experiments are evaluated on the BRATS 2021 dataset. BRATS/brats_swin_unetr3d.py is the script for training mini Swin UNETR model with less number of features. BRATS/knowledge-distillation-swin-unetr.ipynb is the script for training the mini Swin UNETR model with knowledge distillation. 
 
 
 ## Key Contributions
