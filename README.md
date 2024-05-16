@@ -7,8 +7,11 @@ https://www.kaggle.com/models/therealcyberlord/swin-unetr-brats
 
 https://www.kaggle.com/models/therealcyberlord/swin-unetr-mini
 
-Sakshi contributions:
 
-Xingyu contributions:
+Xingyu contributions: formulated the project idea, and created the distillation loss training loop.
 
-Matt contributions:
+Matt contributions: wrote the dataset subsampling and determining FLOPs
+
+Sakshi contributions: ran experiments and plotted graphs
+
+Since we don't have lines because of the jupyter notebook format, it is hard to give a specific line number
