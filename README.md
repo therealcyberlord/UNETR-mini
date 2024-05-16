@@ -1,6 +1,6 @@
 # Swin UNETR-mini: Knowledge Distillation for Efficient 3D Medical Image Segmentation
 
-This repository presents an innovative approach to knowledge distillation for efficient 3D medical image segmentation using the Swin UNETR and Swin UNETR-mini models. By leveraging the power of knowledge transfer, we aim to develop a compact and computationally efficient model while preserving the segmentation accuracy of its larger counterpart.
+This repository presents an innovative approach to knowledge distillation for efficient 3D medical image segmentation using the Swin UNETR and Swin UNETR-mini models. By leveraging the power of knowledge distillation, we aim to develop a compact and computationally efficient model while preserving the segmentation accuracy of its larger counterpart.
 
 ## Pretrained Models
 
