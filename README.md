@@ -8,6 +8,10 @@ The learned weights for the Swin UNETR and Swin UNETR-mini models are available 
 
 - [Swin UNETR](https://www.kaggle.com/models/therealcyberlord/swin-unetr-brats)
 - [Swin UNETR-mini](https://www.kaggle.com/models/therealcyberlord/swin-unetr-mini)
+  
+## Code 
+You can find the code for training and knowledge distillation in the BRATS folder, all experiments are evaluated on the BRATS 2021 dataset. 
+
 
 ## Key Contributions
 
