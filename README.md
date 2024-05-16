@@ -13,14 +13,14 @@ The learned weights for the Swin UNETR and Swin UNETR-mini models are available 
 
 **Xingyu:**
 - Conceptualized and formulated the research idea
-- Designed and implemented the novel distillation loss training loop
+- Designed and implemented the distillation loss training loop
 
 **Matt:**
-- Developed a robust dataset subsampling technique to curate high-quality training data
+- Developed a dataset subsampling technique to curate high-quality training data
 - Orchestrated precise computational cost analysis by determining FLOPs for model benchmarking
 
 **Sakshi:**
-- Conducted comprehensive experiments across various model configurations and hyperparameters
+- Conducted experiments across various model configurations and hyperparameters
 - Visualized and analyzed results from experiments
 
 
