@@ -11,21 +11,3 @@ The learned weights for the Swin UNETR and Swin UNETR-mini models are available 
   
 ## Code 
 You can find the code for training and knowledge distillation in the BRATS folder, all experiments are evaluated on the BRATS 2021 dataset. BRATS/brats_swin_unetr3d.py is the script for training the mini Swin UNETR model with less number of features. BRATS/knowledge-distillation-swin-unetr.ipynb is the script for training the mini Swin UNETR model with knowledge distillation. 
-
-
-## Key Contributions
-
-**Xingyu:**
-- Conceptualized and formulated the research idea
-- Designed and implemented the distillation loss training loop
-
-**Matt:**
-- Developed a dataset subsampling technique to curate high-quality training data
-- Orchestrated precise computational cost analysis by determining FLOPs for model benchmarking
-
-**Sakshi:**
-- Conducted experiments across various model configurations and hyperparameters
-- Visualized and analyzed results from experiments
-
-
-Please note that since this project was developed using Jupyter Notebooks, line numbers are not available. However, the relevant code and resources can be found in the corresponding notebook files.
